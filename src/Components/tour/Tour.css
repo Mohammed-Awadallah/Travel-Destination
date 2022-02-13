@@ -1,0 +1,19 @@
+.resise {
+    width: 250px;
+    height: 250px;
+}
+h3{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    justify-content: center;
+    
+}
+
+.maindiv{
+    display: flex;
+    justify-content: center;
+}
+
+
+
+
+

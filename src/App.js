@@ -1,11 +1,13 @@
 
 import './App.css';
+import Home from "./Components/home/Home";
+
 
 
 function App() {
-  return console.log("Hi");
-    
-    
+  return (
+    <Home/>
+  )
   
 }
 

@@ -1,0 +1,13 @@
+
+ .maindiv{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+} 
+
+#linkt{
+    text-decoration: none;
+}
+
+

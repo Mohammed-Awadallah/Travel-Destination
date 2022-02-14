@@ -1,3 +1,13 @@
 #header{
-    color: brown;
+    color: white;
+}
+
+.mainHead{
+
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    height: 100px;
+    background-color: #212121;
+    
 }

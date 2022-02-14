@@ -1,14 +1,49 @@
 
+.footer-limiter{
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+	height: 100px;
+	background-color:#323232 ;
+	margin-top: 110px;
 
+}
+
+.footer-right a{
+	margin: 10px;
+	text-decoration: none;
+
+}
+.footer-right a:hover{
+	color: violet;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 
+/* 
 footer{
 	background-color: #292c2f;
 	box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.12);
 	width: 100%;
 	text-align: left;
 	font: normal 16px sans-serif;
-	margin-top: 184px;
-    float:bottom;
-	padding: 25px 0px;
+	margin-top: 10px;
+	padding: 25px 25px;
 }
 
 footer .footer-limiter {
@@ -24,7 +59,7 @@ footer .footer-left p{
 
 /* Footer links */
 
-footer p.footer-links{
+/* footer p.footer-links{
 	font-size:18px;
 	font-weight: bold;
 	color:  #ffffff;
@@ -58,4 +93,4 @@ footer .footer-right a{
 	line-height: 35px;
 
 	margin-left: 3px;
-}
+} */ 

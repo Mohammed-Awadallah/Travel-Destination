@@ -6,19 +6,20 @@ function Footer() {
 		
 		<div className="footer-limiter">
 
+			
+
+			<div className="footer-left">
+
+				<p className="footer-links" style={{margin : '0', padding : '0'}}>Mohammed Awadallah</p>
+
+				<p style={{margin : '0', padding : '0'}}>ASAC © 2022</p>
+			</div>
 			<div className="footer-right">
 		
 				<a href="#">fb</a>
 				<a href="#">twitter</a>
 				
 
-			</div>
-
-			<div className="footer-left">
-
-				<p className="footer-links">Mohammed Awadallah</p>
-
-				<p>ASAC © 2022</p>
 			</div>
 
 		</div>
